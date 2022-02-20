@@ -1,17 +1,24 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Davidshiang</title>
-        <link>http://example.org/</link>
+        <link>https://davidshiang.github.io/</link>
         <description>Davidshiang</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>david.xcm@gmail.com (Davidshiang)</managingEditor>
-            <webMaster>david.xcm@gmail.com (Davidshiang)</webMaster><lastBuildDate>Sat, 19 Feb 2022 22:16:35 &#43;0800</lastBuildDate>
-            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+            <webMaster>david.xcm@gmail.com (Davidshiang)</webMaster><lastBuildDate>Sun, 20 Feb 2022 00:24:59 &#43;0800</lastBuildDate>
+            <atom:link href="https://davidshiang.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>半刚性节点网壳结构研究进展及关键问题</title>
+    <link>https://davidshiang.github.io/half-rigid-node/</link>
+    <pubDate>Sun, 20 Feb 2022 00:24:59 &#43;0800</pubDate>
+    <author></author>
+    <guid>https://davidshiang.github.io/half-rigid-node/</guid>
+    <description><![CDATA[#title 范 峰，马会环，马越洋 (哈尔滨工业大学土木工程学院，黑龙江，哈尔滨 150090) 摘 要：装配式节点通常采用单根或多根螺栓与构件连接，往往具有一定的半刚性特]]></description>
+</item><item>
     <title>First_post</title>
-    <link>http://example.org/first_post/</link>
+    <link>https://davidshiang.github.io/first_post/</link>
     <pubDate>Sat, 19 Feb 2022 22:16:35 &#43;0800</pubDate>
     <author></author>
-    <guid>http://example.org/first_post/</guid>
+    <guid>https://davidshiang.github.io/first_post/</guid>
     <description><![CDATA[1 first post in post. 2 2.1 2.2 一些汉字 1 2 3 4 5 include &#34;stdio.h&#34; void main(){ printf(&#34;Hello&#34;); } 1 2 import numpy as nm fprintln&#34;a&#34; 1 2 3 4 5 6 package main import fmt func main(){ fmt.PrintLn(&#34;Hello&#34;) } 3 3.1 3.2 4 4.1 5 5.1]]></description>
 </item></channel>
 </rss>

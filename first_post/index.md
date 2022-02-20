@@ -1,13 +1,13 @@
 # First_post
 
 
-# 1 first post in post.
+## 1 first post in post.
 
-# 2
+## 2
 
-## 2.1
+### 2.1
 
-## 2.2
+### 2.2
 一些汉字
 ```c
 include "stdio.h"
